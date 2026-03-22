@@ -99,19 +99,6 @@ Click **"Reset Model"** to set the current sensor orientation as the zero positi
 | **Mouse drag** | Free rotation of the scene (OrbitControls) |
 | **Mouse scroll** | Zoom in / out |
 
----
-
-## 📁 Project Structure
-
-```
-project/
-├── index.html        # Main viewer (Three.js + Web Serial API)
-└── esp32_sketch/
-    └── sketch.ino    # Arduino sketch for ESP32 + MPU6050
-```
-
----
-
 ## 🛠️ How It Works
 
 1. The ESP32 reads fused angle data from the MPU6050 (X, Y, Z axes) and sends it over USB Serial.
@@ -248,15 +235,6 @@ Klikni na **„Nulovat model"** — aktuální orientace senzoru se nastaví jak
 ---
 
 ## 📁 Struktura projektu
-
-```
-projekt/
-├── index.html        # Hlavní prohlížeč (Three.js + Web Serial API)
-└── esp32_sketch/
-    └── sketch.ino    # Arduino sketch pro ESP32 + MPU6050
-```
-
----
 
 ## 🛠️ Jak to funguje
 

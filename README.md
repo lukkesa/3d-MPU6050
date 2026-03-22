@@ -71,7 +71,7 @@ angleX,angleY,angleZ\n
 
 ### 2. Open the Viewer
 
-Open the `index.html` file in **Google Chrome** or **Microsoft Edge**.
+Open the `mpu.html` file in **Google Chrome** or **Microsoft Edge**.
 
 > ⚠️ The Web Serial API does **not** work in Firefox or Safari.
 
@@ -217,7 +217,7 @@ uhelX,uhelY,uhelZ\n
 
 ### 2. Otevření prohlížeče
 
-Otevři soubor `index.html` v prohlížeči **Google Chrome** nebo **Microsoft Edge**.
+Otevři soubor `mpu.html` v prohlížeči **Google Chrome** nebo **Microsoft Edge**.
 
 > ⚠️ Web Serial API **nefunguje** ve Firefoxu ani Safari.
 
